@@ -4,27 +4,6 @@ A lightweight email editor to embed in your SaaS application. It is built on [cr
 
 ![Optional Text](app/public/email_template.png)
 
-## Usage
-
-To use our React Email Editor, install it from NPM and include it in your own React build process.
-
-```
-npm i raven-react-email-editor
-```
-
-Checkout the example usage here - https://github.com/ravenappdev/react-email-editor
-
 ## Live Demo
 
 Checkout the demo app here - https://email-editor-demo-blue.vercel.app/
-
-## Documentation
-
-- [Run Locally](https://editor-docs.ravenapp.dev/get-started/run-locally)
-- [Customization](https://editor-docs.ravenapp.dev/customization)
-
-Checkout the [documentation](https://editor-docs.ravenapp.dev/) for other available options.
-
-## License
-
-MIT Licensed
